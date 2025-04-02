@@ -1,0 +1,12 @@
+name: LEOSTAT
+title: LEOSTAT
+username: ecodatalight
+account: ecodatalight
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14413746
+bundleId: 10046427
+url: https://leostateco.shinyapps.io/LEOSTAT/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
